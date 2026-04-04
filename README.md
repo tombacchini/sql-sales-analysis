@@ -1,10 +1,10 @@
 # Analyse des ventes avec SQL
 
-# Présentation
+## Présentation
 
 À travers ce projet, j'analyse des données de ventes à l'aide de SQL dans le but d'évaluer la performance commerciale de l'entreprise d'un Dataset fictif créé dans le cadre d’un projet d’apprentissage. 
 
-# Objectifs métier
+## Objectifs métier
 
 - Mesurer le chiffre d’affaires global
 - Analyser l’évolution du chiffre d’affaires dans le temps
@@ -13,13 +13,13 @@
 - Comprendre la répartition du chiffre d’affaires par région
 - Évaluer la performance des différentes catégories de produits
 
-#  Outils utilisés
+##  Outils utilisés
 
 - PostgreSQL
 - DBeaver
 - SQL
 
-# Description des données
+## Description des données
 
 Le dataset utilisé nommé "sales_financial" contient les informations suivantes:
 
@@ -32,12 +32,12 @@ Le dataset utilisé nommé "sales_financial" contient les informations suivantes
 - 'gross_profit' : profit généré
 - 'margin_pct' : marge en pourcentage
 
-# Analyses réalisées
+## Analyses réalisées
 
-# 1. Chiffre d’affaires total
+### 1. Chiffre d’affaires total
 Permet d’évaluer la performance globale de l’entreprise.
 
-# 2. Chiffre d’affaires mensuel
+### 2. Chiffre d’affaires mensuel
 Analyse l’évolution du chiffre d’affaires dans le temps.
 
 # 3. Évolution mensuelle
