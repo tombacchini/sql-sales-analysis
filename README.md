@@ -58,6 +58,9 @@ Analyse la contribution de chaque région au chiffre d’affaires total.
 ### 8. Performance par catégorie
 Compare le chiffre d’affaires, le profit et la marge selon les catégories de produits.
 
+## Exemple de résultat : répartition du chiffre d’affaires par région
+
+
 ## Conclusion
 Ce projet m’a permis de mettre en pratique SQL sur un cas concret et de structurer une analyse de données orientée métier.
 
