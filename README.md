@@ -4,7 +4,7 @@
 
 À travers ce projet, j'analyse des données de ventes à l'aide de SQL dans le but d'évaluer la performance commerciale de l'entreprise d'un Dataset fictif créé dans le cadre d’un projet d’apprentissage. 
 
-## Objectifs métier
+## Objectifs 
 
 - Mesurer le chiffre d’affaires global
 - Analyser l’évolution du chiffre d’affaires dans le temps
