@@ -40,25 +40,25 @@ Permet d’évaluer la performance globale de l’entreprise.
 ### 2. Chiffre d’affaires mensuel
 Analyse l’évolution du chiffre d’affaires dans le temps.
 
-# 3. Évolution mensuelle
+### 3. Évolution mensuelle
 Mesure la variation du chiffre d’affaires d’un mois à l’autre grâce aux fonctions de fenêtre.
 
-# 4. Produits les moins rentables
+### 4. Produits les moins rentables
 Identifie les produits avec les marges les plus faibles.
 
-# 5. Top 5 clients
+### 5. Top 5 clients
 Met en évidence les clients générant le plus de chiffre d’affaires.
 
-# 6. Clients au-dessus de la moyenne
+### 6. Clients au-dessus de la moyenne
 Identifie les clients dont la performance dépasse la moyenne globale.
 
-# 7. Répartition du CA par région
+### 7. Répartition du CA par région
 Analyse la contribution de chaque région au chiffre d’affaires total.
 
-# 8. Performance par catégorie
+### 8. Performance par catégorie
 Compare le chiffre d’affaires, le profit et la marge selon les catégories de produits.
 
-# Conclusion
+## Conclusion
 Ce projet m’a permis de mettre en pratique SQL sur un cas concret et de structurer une analyse de données orientée métier.
 
 
