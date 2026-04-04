@@ -41,7 +41,7 @@ Permet d’évaluer la performance globale de l’entreprise.
 Analyse l’évolution du chiffre d’affaires dans le temps.
 
 ### 3. Évolution mensuelle
-Mesure la variation du chiffre d’affaires d’un mois à l’autre grâce aux fonctions de fenêtre.
+Mesure la variation du chiffre d’affaires d’un mois à l’autre.
 
 ### 4. Produits les moins rentables
 Identifie les produits avec les marges les plus faibles.
