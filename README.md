@@ -1,4 +1,4 @@
-## Analyse des ventes avec SQL
+# Analyse des ventes avec SQL
 
 # Présentation
 
